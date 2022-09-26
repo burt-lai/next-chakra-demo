@@ -8,7 +8,11 @@ pnpm create next-app --ts <project-name>
 ```
 ### import chakra-ui
 ```sh
-pnpm add @chakra-ui/react @emotion/react @emotion/styled framer-motion -S
+pnpm add -S @chakra-ui/react @emotion/react @emotion/styled framer-motion
+```
+### import react-icons
+```sh
+pnpm add -S react-icons
 ```
 
 ## scripts
